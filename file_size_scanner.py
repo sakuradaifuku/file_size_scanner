@@ -1,3 +1,4 @@
+#Windows File は権限の問題でスキャン不可
 import os, sys
 files = os.listdir()
 file_size = {}
